@@ -1,18 +1,9 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+  ________         __________.__                                                     .___
+ /  _____/  ____   \______   \  | _____  ___.__. ___________  ____  __ __  ____    __| _/
+/   \  ___ /  _ \   |     ___/  | \__  \<   |  |/ ___\_  __ \/  _ \|  |  \/    \  / __ | 
+\    \_\  (  <_> )  |    |   |  |__/ __ \\___  / /_/  >  | \(  <_> )  |  /   |  \/ /_/ | 
+ \______  /\____/   |____|   |____(____  / ____\___  /|__|   \____/|____/|___|  /\____ | 
+        \/                             \/\/   /_____/                         \/      \/
+        
+This is somewhere for me to just mess around with Go, 
+test out frameworks, and figure out cool tricks.
